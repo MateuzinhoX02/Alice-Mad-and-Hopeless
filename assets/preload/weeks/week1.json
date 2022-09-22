@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"twisted-twins",
+			"abm",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tweedles",
+	"difficulties": "mad",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Alice mad and hopeless demo psych engine version",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

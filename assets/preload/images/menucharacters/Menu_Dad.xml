@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Dad.png"><SubTexture name="M Dad Idle0000" x="0" y="0" width="202" height="367" frameX="-2" frameY="0" frameWidth="206" frameHeight="367" />
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				194
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ALeft_Alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				44
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ADown_Alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				71
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AUp_Alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				155
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ARight_Alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				129
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AIdle_Alt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				81,
+				48
+			],
+			"fps": 24,
+			"anim": "end",
+			"indices": [],
+			"name": "scythe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OtherAlice",
+	"position": [
+		-450,
+		250
+	],
+	"healthicon": "alice",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

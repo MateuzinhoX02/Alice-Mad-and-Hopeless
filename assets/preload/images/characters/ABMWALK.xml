@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ABMWALK.png">
+<SubTexture name="Idle0000" x="0" y="0" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0001" x="654" y="0" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0002" x="1308" y="0" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0003" x="0" y="729" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0004" x="654" y="729" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0005" x="1308" y="729" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0006" x="0" y="1458" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0007" x="654" y="1458" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0008" x="1308" y="1458" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0009" x="0" y="2187" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0010" x="654" y="2187" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+<SubTexture name="Idle0011" x="1308" y="2187" width="654" height="729" frameX="0" frameY="0" frameWidth="654" frameHeight="729" />
+</TextureAtlas>

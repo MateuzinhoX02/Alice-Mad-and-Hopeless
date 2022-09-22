@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Pico.png"><SubTexture name="M Pico Idle0000" x="0" y="0" width="209" height="224" frameX="-4" frameY="0" frameWidth="213" frameHeight="224" />
+</TextureAtlas>

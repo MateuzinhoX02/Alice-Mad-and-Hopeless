@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dee_notes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="181" height="165"/>
+	<SubTexture name="hold end0000" x="201" y="0" width="42" height="86"/>
+	<SubTexture name="hold piece0000" x="263" y="0" width="42" height="44"/>
+	<SubTexture name="left0000" x="325" y="0" width="165" height="181"/>
+	<SubTexture name="right0000" x="0" y="201" width="165" height="181"/>
+	<SubTexture name="up0000" x="185" y="201" width="181" height="165"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-27
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-92
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				4
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				-14
+			],
+			"fps": 24,
+			"anim": "singRIGHTAlt",
+			"indices": [],
+			"name": "ARightAlt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-27
+			],
+			"fps": 24,
+			"anim": "singLEFTAlt",
+			"indices": [],
+			"name": "ALeftAlt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-92
+			],
+			"fps": 24,
+			"anim": "singDOWNAlt",
+			"indices": [],
+			"name": "ARightAlt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				4
+			],
+			"fps": 24,
+			"anim": "singUPAlt",
+			"indices": [],
+			"name": "AUpAlt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				-14
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				9
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+					"loop": false,
+			"offsets": [
+				-83,
+				9
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Real",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "alice",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

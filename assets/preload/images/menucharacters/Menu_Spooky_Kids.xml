@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Spooky_Kids.png"><SubTexture name="M Spooky Kids Idle0000" x="0" y="0" width="221" height="241" frameX="-3" frameY="-9" frameWidth="226" frameHeight="253" />
+</TextureAtlas>

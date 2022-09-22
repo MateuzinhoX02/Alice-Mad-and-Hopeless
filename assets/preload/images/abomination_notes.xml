@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="abomination_notes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="164" height="201"/>
+	<SubTexture name="blue hold end0000" x="174" y="0" width="42" height="86"/>
+	<SubTexture name="pruple end hold0000" x="174" y="0" width="42" height="86"/>
+	<SubTexture name="green hold end0000" x="174" y="0" width="42" height="86"/>
+	<SubTexture name="red hold end0000" x="174" y="0" width="42" height="86"/>
+	<SubTexture name="green hold piece0000" x="226" y="0" width="42" height="44"/>
+	<SubTexture name="blue hold piece0000" x="226" y="0" width="42" height="44"/>
+	<SubTexture name="purple hold piece0000" x="226" y="0" width="42" height="44"/>
+	<SubTexture name="red hold piece0000" x="226" y="0" width="42" height="44"/>
+	<SubTexture name="left0000" x="278" y="0" width="200" height="164"/>
+	<SubTexture name="right0000" x="0" y="211" width="200" height="164"/>
+	<SubTexture name="up0000" x="210" y="211" width="164" height="201"/>
+	<SubTexture name="pruple0000" x="278" y="0" width="200" height="164"/>
+	<SubTexture name="red0000" x="0" y="211" width="200" height="164"/>
+	<SubTexture name="green0000" x="210" y="211" width="164" height="201"/>
+	<SubTexture name="blue0000" x="0" y="0" width="164" height="201"/>
+</TextureAtlas>
